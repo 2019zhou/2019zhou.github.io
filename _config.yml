@@ -29,8 +29,8 @@ projects:
     # - repo-name
 
 social_media:
-#  behance: your_username
-#  dribbble: your_username
+#  gmail: zhoujulia9@gmail.com
+#  github: https://github.com/2019zhou
 #  facebook: your_username
 #  hackerrank: your_username
 #  instagram: your_username
@@ -39,20 +39,17 @@ social_media:
 #  mastodon: your_username
 #  medium: your_username
 #  stackoverflow: your_user_id
-#  telegram: your_username
 #  twitter: your_username
 #  unsplash: your_username
-#  vk: your_username
   website: http://2019zhou.github.io
-#  youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: data structure and algorithm
+    web_url: https://github.com/2019zhou/DengDS
+    image_url: https://stepupanalytics.com/wp-content/uploads/2018/07/competitive-programming-data-structures-and-algorithms.gif
+  - name: commanding line
+    web_url: https://github.com/jlevy/the-art-of-command-line.git
+    image_url: http://1.bp.blogspot.com/-PshdSy6vk8w/VmMah5O8bqI/AAAAAAAAArc/JrMZydzlT3A/s1600/Screenshot%2Bfrom%2B2015-12-05%2B22-37-13.png
+  - name: web 
+    web_url: https://github.com/2019zhou/fullstack-course1-module3.git
+    image_url: https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-8.jpg
