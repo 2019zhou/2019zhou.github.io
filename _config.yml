@@ -42,14 +42,3 @@ social_media:
 #  twitter: your_username
 #  unsplash: your_username
   website: http://2019zhou.github.io
-
-topics:
-  - name: data structure and algorithm
-    web_url: https://github.com/2019zhou/DengDS
-    image_url: https://stepupanalytics.com/wp-content/uploads/2018/07/competitive-programming-data-structures-and-algorithms.gif
-  - name: commanding line
-    web_url: https://github.com/jlevy/the-art-of-command-line.git
-    image_url: http://1.bp.blogspot.com/-PshdSy6vk8w/VmMah5O8bqI/AAAAAAAAArc/JrMZydzlT3A/s1600/Screenshot%2Bfrom%2B2015-12-05%2B22-37-13.png
-  - name: web 
-    web_url: https://github.com/2019zhou/fullstack-course1-module3.git
-    image_url: https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-8.jpg

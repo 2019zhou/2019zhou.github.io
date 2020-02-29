@@ -1,5 +1,5 @@
 ---
-title:"smart contract papers"
+title: "smart contract papers"
 ---
 
 # Conference Information
